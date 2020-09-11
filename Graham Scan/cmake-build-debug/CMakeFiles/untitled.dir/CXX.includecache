@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kevinzhou/CLionProjects/untitled/Zhou, Shirui Quick Hull.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+ctime
+-
+list
+-
+vector
+-
+cstdlib
+-
+chrono
+-
+limits
+-
+unordered_map
+-
+stack
+-
+
